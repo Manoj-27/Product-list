@@ -1,0 +1,28 @@
+{
+    "Productsdata": 
+        [
+            {
+                "ID": 1,
+                "ProductName": "Moto G5",
+                "Quantity": 2
+            
+            },
+            {
+                "ID": 2,
+                "ProductName": "Racold Geyser",
+                "Quantity": 3
+                
+            },
+            {
+                "ID": 3,
+                "ProductName": "Dell Inspiron",
+                "Quantity": 1
+            },
+            {
+                "ID": 4,
+                "ProductName": "Logitech Keyboard",
+                "Quantity": 4
+            }
+        ]
+}
+
